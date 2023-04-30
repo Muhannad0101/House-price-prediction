@@ -31,9 +31,6 @@ The model I have built to predict house prices performs reasonably well, with an
 
 
 
-
-![4](https://user-images.githubusercontent.com/102443619/235371796-de0dd6f3-793f-42f7-b665-e4113c6d0179.PNG)
-
 ![1](https://user-images.githubusercontent.com/102443619/235371803-4434d148-46de-4992-afd3-b735d636dc97.PNG)
 
 ![2](https://user-images.githubusercontent.com/102443619/235371810-00c15dd1-f164-40af-bfcd-54b7a1848faa.PNG)
