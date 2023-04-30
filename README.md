@@ -30,11 +30,12 @@ Adjusted R2: The model's adjusted R2 for the test set is 0.8866, or 88.66%.
 The model I have built to predict house prices performs reasonably well, with an overall accuracy of around 84%. It is able to explain about 89% of the variation in house prices for new, unseen data. On average, the model's predictions are off by about $17,607 to $23,100, depending on the data set. While there is still room for improvement, this model can be a helpful tool in estimating house prices.
 
 
-![4](https://user-images.githubusercontent.com/102443619/235371738-cff11e12-0e5d-4e70-886b-dacc56a20cf9.PNG)
-![1](https:/![2](https://user-images.githubusercontent.com/102443619/235371751-111296a3-f383-4ea6-97f5-89cfa875b757.PNG)
-/user-images.githubusercontent.com/102443619/235371744-658ef42f-2e5e-410f-973e-9451dee80e5e.PNG)
-![3](https://user-images.githubusercontent.com/102443619/235371760-d03a47aa-6140-4984-a3f1-8ed4b0ca8c2a.PNG)
 
 
+![4](https://user-images.githubusercontent.com/102443619/235371796-de0dd6f3-793f-42f7-b665-e4113c6d0179.PNG)
 
+![1](https://user-images.githubusercontent.com/102443619/235371803-4434d148-46de-4992-afd3-b735d636dc97.PNG)
 
+![2](https://user-images.githubusercontent.com/102443619/235371810-00c15dd1-f164-40af-bfcd-54b7a1848faa.PNG)
+
+![3](https://user-images.githubusercontent.com/102443619/235371815-e2f2e6c8-9efe-4735-a350-69504ba799bc.PNG)
