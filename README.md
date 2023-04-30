@@ -1,6 +1,5 @@
 # House-price-prediction
 
-Solution
 ### Simplified Report on House Price Prediction Model
 I have developed a model to predict house prices based on various features. Here is a simple, easy-to-understand explanation of the results and observations of the model.
 
