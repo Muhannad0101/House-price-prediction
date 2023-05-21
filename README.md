@@ -31,8 +31,7 @@ Adjusted R2: The model's adjusted R2 for the test set is 0.9064, or 90.64%.
 The model we have built to predict house prices performs reasonably well, with an overall accuracy of around 84%. It is able to explain about 89% of the variation in house prices for new, unseen data. On average, the model's predictions are off by about  11,576 𝑡𝑜 19,989, depending on the data set. While there is still room for improvement, this model can be a helpful tool in estimating house prices.
 
 
-
-
+![6](https://github.com/Muhannad0101/House-price-prediction/assets/102443619/083df22c-cfe9-4149-9d0f-8c30c801b7cf)
 ![1](https://github.com/Muhannad0101/House-price-prediction/assets/102443619/81069669-4231-423a-88e0-44abfe6fdb12)
 ![2](https://github.com/Muhannad0101/House-price-prediction/assets/102443619/6cd8c4dc-6d34-4d71-8b68-c2b8f4adadf1)
 ![3](https://github.com/Muhannad0101/House-price-prediction/assets/102443619/4efe3c52-2340-4292-abaa-9ddf5c448ce8)
