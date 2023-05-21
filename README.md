@@ -32,7 +32,10 @@ The model we have built to predict house prices performs reasonably well, with a
 
 
 ![6](https://github.com/Muhannad0101/House-price-prediction/assets/102443619/a3757819-1c60-4183-9e24-8fa474a69f3e)
+
 ![1](https://github.com/Muhannad0101/House-price-prediction/assets/102443619/81069669-4231-423a-88e0-44abfe6fdb12)
+
 ![2](https://github.com/Muhannad0101/House-price-prediction/assets/102443619/6cd8c4dc-6d34-4d71-8b68-c2b8f4adadf1)
+
 ![3](https://github.com/Muhannad0101/House-price-prediction/assets/102443619/4efe3c52-2340-4292-abaa-9ddf5c448ce8)
 
