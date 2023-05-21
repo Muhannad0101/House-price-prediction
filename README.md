@@ -28,8 +28,8 @@ R2 (R-squared): The model's R2 for the test set is 0.9183, or 91.83%. This means
 Adjusted R2: The model's adjusted R2 for the test set is 0.9064, or 90.64%.
 
 ### Key Observations
-- House size (Overall Qual) was the most important predictor of price
-- GrLiv Area also significantly impacted home values
+- Overall material and finish quality (OverallQual) was the most important predictor of price
+- Size of garage in square feet (GrLivArea) also significantly impacted home values
 
 ### Summary
 The model we have built to predict house prices performs reasonably well, with an overall accuracy of around 84%. It is able to explain about 89% of the variation in house prices for new, unseen data. On average, the model's predictions are off by about  11,576 𝑡𝑜 19,989, depending on the data set. While there is still room for improvement, this model can be a helpful tool in estimating house prices.
